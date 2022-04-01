@@ -1,5 +1,5 @@
 PRIVACY POLICY MODEL FOR MOBILE APPLICATIONS
-This privacy policy governs your use of the software application [Dr Emad Abdallah] (“Application”) for mobile devices that was created by [TabibSoft Company]. The Application is [A medical app for Dr Emad that allow users to contact the doctor and reserve before going to the clinic]
+This privacy policy governs your use of the software application [Hoor Clinic] (“Application”) for mobile devices that was created by [TabibSoft Company]. The Application is [A medical app for Hoor Clinic that allow users to contact the doctor and reserve before going to the clinic]
  
 What information does the Application obtain and how is it used?
 User Provided Information
@@ -18,14 +18,14 @@ We may disclose User Provided and Automatically Collected Information:
           •    as required by law, such as to comply with a subpoena, or similar legal process;
           •    when we believe in good faith that disclosure is necessary to protect our rights, protect your safety or the safety of others, investigate fraud, or respond to a government request;
           •    with our trusted services providers who work on our behalf, do not have an independent use of the information we disclose to them, and have agreed to adhere to the rules set forth in this privacy statement.
-          •    if [DEVELOPER COMPANY NAME] is involved in a merger, acquisition, or sale of all or a portion of its assets, you will be notified via email and/or a prominent notice on our Web site of any change in ownership or uses of this information, as well as any choices you may have regarding this information.
+          •    if tabibsoft is involved in a merger, acquisition, or sale of all or a portion of its assets, you will be notified via email and/or a prominent notice on our Web site of any change in ownership or uses of this information, as well as any choices you may have regarding this information.
  
  
 Data Retention Policy, Managing Your Information
 
  
 Children
-We do not use the Application to knowingly solicit data from or market to children under the age of 13. If a parent or guardian becomes aware that his or her child has provided us with information without their consent, he or she should contact us at privacy@applicationsite.com. We will delete such information from our files within a reasonable time.
+We do not use the Application to knowingly solicit data from or market to children under the age of 13. If a parent or guardian becomes aware that his or her child has provided us with information without their consent, he or she should contact us at eng.amir91@gmail.com. We will delete such information from our files within a reasonable time.
  
 Security
 We are concerned about safeguarding the confidentiality of your information. We provide physical, electronic, and procedural safeguards to protect information we process and maintain. For example, we limit access to this information to authorized employees and contractors who need to know that information in order to operate, develop or improve our Application. Please be aware that, although we endeavor provide reasonable security for information we process and maintain, no security system can prevent all potential security breaches.
