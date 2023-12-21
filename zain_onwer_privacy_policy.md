@@ -1,10 +1,10 @@
-PRIVACY POLICY MODEL FOR MOBILE APPLICATIONS This privacy policy governs your use of the software application [Dr Emad Abdallah] (“Application”) for mobile devices that was created by [TabibSoft Company]. The Application is [A medical app for Dr Emad that allow users to contact the doctor and reserve before going to the clinic]
+PRIVACY POLICY MODEL FOR MOBILE APPLICATIONS This privacy policy governs your use of the software application [Al Zain Owner] (“Application”) for mobile devices that was created by [TabibSoft Company]. The Application is [An app for Al Zain that allow users to manage their shops from anywhere]
 
 What information does the Application obtain and how is it used? User Provided Information No information. Automatically Collected Information
 
 There is not automatically information collecting
 
-Does the application require any permissions? Yes. We need your permission to access camera and storage to make you able to send photos to the doctor , your photos and personal information will not be used with anything else , and will not be shared with anyone except the docotor
+Does the application require any permissions? Yes. We need your permission to access camera and storage to make you able to add photos for shops , services and products , your photos and personal information will not be used with anything else , and will not be shared with anyone except the docotor
 
 Do third parties see and/or have access to information obtained by the Application?
 
