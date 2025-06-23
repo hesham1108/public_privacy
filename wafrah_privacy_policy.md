@@ -1,4 +1,4 @@
-PRIVACY POLICY MODEL FOR MOBILE APPLICATIONS This privacy policy governs your use of the software application name(in English[Alwaferah] in Arabic[الوافرة]) (“Application”) for mobile devices that was created by [Impact Company (Bltzo)]. The Application is [A Management app for Resturatnts that allow users to control and manage their resturant]
+PRIVACY POLICY MODEL FOR MOBILE APPLICATIONS This privacy policy governs your use of the software application with name(in English[Alwaferah] in Arabic[الوافرة]) (“Application”) for mobile devices that was created by [Impact Company (Bltzo)]. The Application is [A Management app for Resturatnts that allow users to control and manage their resturant]
 
 What information does the Application obtain and how is it used? User Provided Information No information. Automatically Collected Information
 
