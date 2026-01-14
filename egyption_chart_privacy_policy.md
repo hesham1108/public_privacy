@@ -1,4 +1,4 @@
-PRIVACY POLICY MODEL FOR MOBILE APPLICATIONS This privacy policy governs your use of the software application [Egyptian charts] (“Application”) for mobile devices that was created by [TabibSoft Company]. The Application is [A medical app for Egyptian charts for people to trace the growth of thier children]
+PRIVACY POLICY MODEL FOR MOBILE APPLICATIONS This privacy policy governs your use of the software application [Egy Pedia Charts] (“Application”) for mobile devices that was created by [Z-score Charts Company]. The Application is [A medical app for Egyptian charts for people to trace the growth of thier children]
 
 What information does the Application obtain and how is it used? User Provided Information No information. Automatically Collected Information
 
